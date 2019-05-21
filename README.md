@@ -18,3 +18,8 @@ This is a collecition of notebooks working with the data set available on [UN St
 - [standardised `csv` files with imputations](https://www.dropbox.com/sh/fgwpxet2heuf9gd/AACshLajFaBDb13a0L3Y3494a?dl=0)
 
 - [additional utils](https://www.dropbox.com/sh/bi6c0rs96jo5oom/AAACBeOgHUkEUsjxtJnz-MkVa?dl=0)
+
+
+## Data set
+
+- [table](xxx) comparing [official UN indicators](https://unstats.un.org/sdgs/indicators/database/) to [World Bank indicators](http://datatopics.worldbank.org/sdgs/)
