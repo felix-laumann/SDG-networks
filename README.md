@@ -1,6 +1,10 @@
 # SDG dataset
 
-This is a collecition of notebooks working with the data set available on [UN Statistics Division](https://unstats.un.org/sdgs/indicators/database/).
+This is a collecition of notebooks working with the data set available on [UN Statistics Division](https://unstats.un.org/sdgs/indicators/database/). 
+
+If you had asked yourself whether working with data provided by the [World Bank](http://datatopics.worldbank.org/sdgs/) would be better, please be aware that indicators are not always the same. This [table](https://www.dropbox.com/s/xbqldi07709wsvk/indicator_table.ods?dl=0) compares both sets of indicators.
+
+## Notebooks
 
 - [country_diaggregation](https://github.com/felix-laumann/SDG-dataset/blob/master/country_diaggregation.ipynb) splits data in separate `csv` files per country, and all other groupings. For all other information, including where to download the original data set, see the notebook. 
 
@@ -18,8 +22,3 @@ This is a collecition of notebooks working with the data set available on [UN St
 - [standardised `csv` files with imputations](https://www.dropbox.com/sh/fgwpxet2heuf9gd/AACshLajFaBDb13a0L3Y3494a?dl=0)
 
 - [additional utils](https://www.dropbox.com/sh/bi6c0rs96jo5oom/AAACBeOgHUkEUsjxtJnz-MkVa?dl=0)
-
-
-## Data set
-
-- [table](xxx) comparing [official UN indicators](https://unstats.un.org/sdgs/indicators/database/) to [World Bank indicators](http://datatopics.worldbank.org/sdgs/)
