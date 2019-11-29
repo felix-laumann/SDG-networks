@@ -6,11 +6,11 @@ If you had asked yourself whether working with data provided by the [World Bank]
 
 ## Notebooks
 
-- [country_diaggregation](https://github.com/felix-laumann/SDG-dataset/blob/master/country_diaggregation.ipynb) splits data in separate `csv` files per country, and all other groupings. For all other information, including where to download the original data set, see the notebook. 
+- [1_data_preparation](https://github.com/felix-laumann/SDG-dataset/blob/master/1_data_preparation.ipynb) splits data in separate `csv` files per country, and all other groupings. For all other information, including where to download the original data set, see the notebook. 
 
-- [imputations](https://github.com/felix-laumann/SDG-dataset/blob/master/imputations.ipynb) imputes missing values in the data set either with a **weighted k nearest neighbour (w-kNN)** algorithm, if less than 9 measurements are available from the years 2000 to 2018, or with **Gaussian processes (GPs)**, if more than 9 measurements are available.
+- [2_imputations_concatenating](https://github.com/felix-laumann/SDG-dataset/blob/master/2_imputations_concatenating.ipynb) imputes missing values in the data set with a **weighted k nearest neighbour (w-kNN)** algorithm.
 
-- [similarities](https://github.com/felix-laumann/SDG-dataset/blob/master/similarities.ipynb) computes the [distance correlations](https://projecteuclid.org/euclid.aos/1201012979) between each unique pair of sub-indicators in all groupings.
+- [3_distance_cor](https://github.com/felix-laumann/SDG-dataset/blob/master/3_distance_cor.ipynb) computes the [distance correlations](https://projecteuclid.org/euclid.aos/1201012979) between each unique pair of indicators, targets, and goals in all countries and continents.
 
 
 ## Direct downloads
