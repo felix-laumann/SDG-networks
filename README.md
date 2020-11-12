@@ -14,3 +14,4 @@ We compute the [partial distance correlations](https://projecteuclid.org/euclid.
 
 - [3_distance_cor_continents](https://github.com/felix-laumann/SDG-dataset/blob/master/3_distance_cor_continents.ipynb) and [3_distance_cor_groups](https://github.com/felix-laumann/SDG-dataset/blob/master/3_distance_cor_groups.ipynb) computes the partial distance correlation between each unique pair of two variables given any subset of the remaining variables for continents and groups, respectively. This notebook includes **visualisations** of the networks.
 
+- [5_Additions](https://github.com/felix-laumann/SDG-networks/blob/master/5_Additions.ipynb) includes all visualisations.
