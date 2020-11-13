@@ -10,7 +10,7 @@ We compute the [partial distance correlations](https://projecteuclid.org/euclid.
 
 - [1_data_preparation](https://github.com/felix-laumann/SDG-dataset/blob/master/1_data_preparation.ipynb) splits data in separate `csv` files per country, appends the temperature, and standardises the data. 
 
-- [2_imputations_concatenating](https://github.com/felix-laumann/SDG-dataset/blob/master/2_imputations_concatenating.ipynb) imputes missing values in the data set with a **weighted k nearest neighbour (w-kNN)** algorithm, and averages and concatenates data to target and goal-level.
+- [2_imputations_concatenating](https://github.com/felix-laumann/SDG-dataset/blob/master/2_imputations_concatenating.ipynb) imputes missing values in the data set with a weighted k nearest neighbour (w-kNN) algorithm, and averages and concatenates data to target and goal-level.
 
 - [3_distance_cor_continents](https://github.com/felix-laumann/SDG-dataset/blob/master/3_distance_cor_continents.ipynb) and [3_distance_cor_groups](https://github.com/felix-laumann/SDG-dataset/blob/master/3_distance_cor_groups.ipynb) computes the partial distance correlation between each unique pair of two variables given any subset of the remaining variables for continents and groups, respectively. These notebooks include the visualisations of the networks and eigenvector centrality figures.
 
