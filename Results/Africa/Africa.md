@@ -5,4 +5,4 @@
 ![Africa](https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/Africa/Africa_multipartite_network_logos_cluster.png)
 
 # Africa
-<img src="{{site.baseurl}}/Africa_circular_network_logos.png">
+<img src="Africa_circular_network_logos.png">
