@@ -9,12 +9,12 @@ Given the large analysis over 35 country groupings, most of the results are foun
 Search for the results of specific country groupings here:
 
 <details>
-<summary>Country Groupings</summary>
-<br>
-[Africa](https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/Africa/Africa.md)
-<br>
-Asia
-Americas
+  <summary>Country Groupings</summary>
+  <ul>
+    <li>[Africa](https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/Africa/Africa.md)</li>
+    <li>Asia</li>
+    <li>Americas</li>
+  </ul>
 </details>
 
 
