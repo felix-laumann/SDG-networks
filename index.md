@@ -1,4 +1,4 @@
-# Complex interlinkages, key objectives, and nexuses among the Sustainable Development Goals and climate change: a network analysis
+## Complex interlinkages, key objectives, and nexuses among the Sustainable Development Goals and climate change: a network analysis
 
 This website allows you to explore the results of the publication *Complex interlinkages, key objectives, and nexuses among the Sustainable Development Goals and climate change: a network analysis* that is freely available at [The Lancet Planetary Health](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(22)00070-5/fulltext).
 
@@ -12,7 +12,7 @@ Given the large analysis over 35 country groupings, most of the results are foun
     - [Global North](https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/Global_North/Global_North.md)
     - [Global South](https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/Global_South/Global_South.md)
 
-- [Africa](https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/Africa/Africa.md)
+- [Africa](https://felix-laumann.github.io/SDG-networks/Results/Africa.html)
     - [Sub-Saharan Africa](https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/Sub-Saharan_Africa/Sub-Saharan_Africa.md)
     - [Southern and Eastern Africa](https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/Southern_and_Eastern_Africa/Southern_and_Eastern_Africa.md)
     - [Middle Africa](https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/Middle_Africa/Middle_Africa.md)
