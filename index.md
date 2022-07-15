@@ -4,9 +4,9 @@ This website allows you to explore the results of the publication *Complex inter
 
 Given the large analysis over 35 country groupings, most of the results are found in the [Supplementary Material](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(22)00070-5/fulltext#supplementaryMaterial) of this publication. This website is intended to make the search for results of specific country groupings more accessible.
 
+---
 
-
-Search for the results of specific **country groupings** here:
+<font size='10'>Search for the results of specific **country groupings** here:</font>
 
 - World
     - Global North
