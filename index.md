@@ -6,7 +6,7 @@ Given the large analysis over 35 country groupings, most of the results are foun
 
 ---
 
-<font size='10'>Search for the results of specific **country groupings** here:</font>
+<font size="20">Search for the results of specific **country groupings** here:</font>
 
 - World
     - Global North
@@ -52,7 +52,7 @@ Given the large analysis over 35 country groupings, most of the results are foun
 - OPEC
 
 
-
+---
 
 
 
