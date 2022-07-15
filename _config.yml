@@ -1,2 +1,2 @@
 theme: jekyll-theme-minimal
-permalink: /:path/:basename
+#permalink: /:path/:basename
