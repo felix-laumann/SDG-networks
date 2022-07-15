@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 include:
  - Results
 
-permalink: "/Results/:title/"
+permalink: "/Results/:name/"
