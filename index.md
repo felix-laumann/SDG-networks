@@ -12,7 +12,7 @@ Search for the results of specific country groupings here:
 <summary>Country Groupings</summary>
 <br>
 [Africa](https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/Africa/Africa.md)
-  <br>
+<br>
 Asia
 Americas
 </details>
