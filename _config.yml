@@ -1,5 +1,3 @@
 theme: jekyll-theme-minimal
 include:
  - Results
-
-permalink: "/Results/:name/"
