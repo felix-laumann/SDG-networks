@@ -8,8 +8,12 @@ Given the large analysis over 35 country groupings, most of the results are foun
 
 Search for the results of specific **country groupings** here:
 
-|[Africa](https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/Africa/Africa.md)|[Sub-Saharan Africa](https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/Africa/Sub-Saharan_Africa.md)|[Southern and Eastern Africa](https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/Africa/Southern_and_Eastern_Africa.md)|[Middle Africa](https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/Africa/Middle_Africa.md)|[Northern and Western Africa](https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/Africa/Northern_and_Western_Africa.md)|
-|---|---|---|---|---|
+- [Africa](https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/Africa/Africa.md)
+    - [Sub-Saharan Africa](https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/Africa/Sub-Saharan_Africa.md)
+    - [Southern and Eastern Africa](https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/Africa/Southern_and_Eastern_Africa.md)
+    - [Middle Africa](https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/Africa/Middle_Africa.md)
+    - [Northern and Western Africa](https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/Africa/Northern_and_Western_Africa.md)
+
 
 
 
