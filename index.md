@@ -8,7 +8,7 @@ Given the large analysis over 35 country groupings, most of the results are foun
 
 ### Search for the results of specific country groupings:
 
-- [World](https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/World/World.md)
+- [World](https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/World/World.html)
     - [Global North](https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/Global_North/Global_North.md)
     - [Global South](https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/Global_South/Global_South.md)
 
