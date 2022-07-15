@@ -12,7 +12,7 @@ Given the large analysis over 35 country groupings, most of the results are foun
     - [Global North](https://felix-laumann.github.io/SDG-networks/Results/Global_North/Global_North.html)
     - [Global South](https://felix-laumann.github.io/SDG-networks/Results/Global_South/Global_South.html)
 
-- [Africa](https://felix-laumann.github.io/SDG-networks/Results//Africa.html)
+- [Africa](https://felix-laumann.github.io/SDG-networks/Results/Africa/Africa.html)
     - [Sub-Saharan Africa](https://felix-laumann.github.io/SDG-networks/Results/Sub-Saharan_Africa/Sub-Saharan_Africa.html)
     - [Southern and Eastern Africa](https://felix-laumann.github.io/SDG-networks/Results/Southern_and_Eastern_Africa/Southern_and_Eastern_Africa.html)
     - [Middle Africa](https://felix-laumann.github.io/SDG-networks/Results/Middle_Africa/Middle_Africa.html)
