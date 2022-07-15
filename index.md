@@ -9,6 +9,7 @@ Given the large analysis over 35 country groupings, most of the results are foun
 Search for the results of specific **country groupings** here:
 
 |[Africa](https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/Africa/Africa.md)|
+|---|
 
 
 
