@@ -1,1 +1,0 @@
-## Northern and Western Africa
