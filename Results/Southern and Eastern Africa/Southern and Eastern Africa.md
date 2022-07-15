@@ -1,1 +1,0 @@
-## Southern and Eastern Africa
