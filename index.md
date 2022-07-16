@@ -4,6 +4,11 @@ This website allows you to explore the results of the publication *Complex inter
 
 Given the large analysis over 35 country groupings, most of the results are found in the [Supplementary Material](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(22)00070-5/fulltext#supplementaryMaterial) of this publication. This website is intended to make the search for results of specific country groupings more accessible.
 
+The two main differences of our approach to existing studies are the consideration of non-linear (non-monotonic) relationships, how the following animated figure explains, and the consideration that any dependence (or correlation) between two variables may originate from a third variable, that is not taken into account at first. These _third_ variables are called confounders or lurking variables and make the dependence between the two variables spurious.
+
+<br>
+<img src="Figure_1.gif">
+<br>
 ---
 
 ### Search for the results of specific country groupings:
