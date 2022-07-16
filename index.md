@@ -51,7 +51,7 @@ The two main differences of our approach to existing studies are the considerati
 - [Low Income](https://felix-laumann.github.io/SDG-networks/Results/Low_Income/Low_Income.html)
 
 - [Least Developed Countries](https://felix-laumann.github.io/SDG-networks/Results/Least_Developed_Countries_(LDC)/Least_Developed_Countries_(LDC).html)
-- [Land-locked Developing Countries](https://felix-laumann.github.io/SDG-networks/Results/Land_locked_Developing_Countries_(LLDC)/Land_locked_Developing_Countries_(LLDC).html)
+- [Land-locked Developing Countries](https://felix-laumann.github.io/SDG-networks/Results/Land_Locked_Developing_Countries_(LLDC)/Land_Locked_Developing_Countries_(LLDC).html)
 - [Small Island Developing States](https://felix-laumann.github.io/SDG-networks/Results/Small_Island_Developing_States_(SIDS)/Small_Island_Developing_States_(SIDS).html)
 - [G20](https://felix-laumann.github.io/SDG-networks/Results/G20/G20.html)
 - [Emerging Markets](https://felix-laumann.github.io/SDG-networks/Results/Emerging_Markets/Emerging_Markets.html)
