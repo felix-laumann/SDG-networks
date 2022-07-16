@@ -44,9 +44,9 @@ Given the large analysis over 35 country groupings, most of the results are foun
 - [Lower-Middle Income](https://felix-laumann.github.io/SDG-networks/Results/Lower-Middle_Income/Lower-Middle_Income.html)
 - [Low Income](https://felix-laumann.github.io/SDG-networks/Results/Low_Income/Low_Income.html)
 
-- [Least Developed Countries](https://felix-laumann.github.io/SDG-networks/Results/Least_Developed_Countries/Least_Developed_Countries.html)
-- [Land-locked Developing Countries](https://felix-laumann.github.io/SDG-networks/Results/Land-locked_Developing_Countries/Land-locked_Developing_Countries.html)
-- [Small Island Developing States](https://felix-laumann.github.io/SDG-networks/Results/Small_Island_Developing_States/Small_Island_Developing_States.html)
+- [Least Developed Countries](https://felix-laumann.github.io/SDG-networks/Results/Least_Developed_Countries_(LDC)/Least_Developed_Countries_(LDC).html)
+- [Land-locked Developing Countries](https://felix-laumann.github.io/SDG-networks/Results/Land-locked_Developing_Countries_(LLDC)/Land-locked_Developing_Countries_(LLDC).html)
+- [Small Island Developing States](https://felix-laumann.github.io/SDG-networks/Results/Small_Island_Developing_States_(SIDS)/Small_Island_Developing_States_(SIDS).html)
 - [G20](https://felix-laumann.github.io/SDG-networks/Results/G20/G20.html)
 - [Emerging Markets](https://felix-laumann.github.io/SDG-networks/Results/Emerging_Markets/Emerging_Markets.html)
 - [OPEC](https://felix-laumann.github.io/SDG-networks/Results/OPEC/OPEC.html)
