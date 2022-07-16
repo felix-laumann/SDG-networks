@@ -12,7 +12,7 @@ The two main differences of our approach to existing studies are the considerati
 
 ---
 
-%[Results]:
+[Results]:
 
 - [World](https://felix-laumann.github.io/SDG-networks/Results/World/World.html)
     - [Global North](https://felix-laumann.github.io/SDG-networks/Results/Global_North/Global_North.html)
