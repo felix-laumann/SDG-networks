@@ -1,6 +1,6 @@
 # Complex interlinkages, key objectives, and nexuses among the Sustainable Development Goals and climate change: a network analysis
 
-#### [#results]
+_[Direct link to Results](#results)_
 
 This website allows you to explore the results of the publication *Complex interlinkages, key objectives, and nexuses among the Sustainable Development Goals and climate change: a network analysis* that is freely available at [The Lancet Planetary Health](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(22)00070-5/fulltext).
 
