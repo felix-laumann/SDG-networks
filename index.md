@@ -8,7 +8,7 @@ Given the large analysis over 35 country groupings, most of the results are foun
 
 The two main differences of our approach to existing studies are the consideration of non-linear (non-monotonic) relationships, how the following animated figure explains, and the consideration that any dependence (or correlation) between two variables may originate from a third variable, that is not taken into account. These _third_ variables are called confounders or lurking variables and make the dependence between the two variables spurious.
 
-<img src="figure_1.gif">
+<img src="Figure_1.gif">
 
 ---
 
