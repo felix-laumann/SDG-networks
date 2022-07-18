@@ -8,5 +8,8 @@
 
 ---
 
-Click <a href="TLPH_website_tables_6-6.pdf" target="_blank">here</a> for the exact numerical results for the **strength** of each relationship, the conditional set of variables that resulted in the minimum partial distance correlation, and the _p_-value of the conditional independence test.
+Find <a href="TLPH_website_tables_6-6.pdf" target="_blank">here</a> the **exact numerical results of the strength of each relationship**, the conditional set of variables that resulted in the minimum partial distance correlation between any two variables, and the _p_-value of the conditional independence test.
 
+---
+
+If you are looking to conduct research with these results, we have also made the strength of each relationship available as a <a href="https://github.com/felix-laumann/SDG-networks/blob/gh-pages/Results/csv/conditions_Africa.csv">csv file</a>. 
