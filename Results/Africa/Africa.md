@@ -12,4 +12,4 @@ Find <a href="TLPH_website_tables_6-6.pdf" target="_blank">here</a> the **exact 
 
 ---
 
-If you are looking to conduct research with these results, we have also made the strength of each relationship available as a <a href="/..Results/csv/conditions_Africa.csv">csv file</a>. 
+If you are looking to conduct research with these results, we have also made the strength of each relationship available as a <a href="../Results/csv/conditions_Africa.csv">csv file</a>. 
