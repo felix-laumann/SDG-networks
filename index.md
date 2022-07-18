@@ -14,7 +14,7 @@ The two main differences of our approach to existing studies are the considerati
 
 <h3 id="results">Find results for specific country groupings:</h3>
 
-_[Download results](#download)
+_[Download results](#download)_
 
 - [World](https://felix-laumann.github.io/SDG-networks/Results/World/World.html)
     - [Global North](https://felix-laumann.github.io/SDG-networks/Results/Global_North/Global_North.html)
