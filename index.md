@@ -14,6 +14,8 @@ The two main differences of our approach to existing studies are the considerati
 
 <h3 id="results">Find results for specific country groupings:</h3>
 
+_[Download results](#download)
+
 - [World](https://felix-laumann.github.io/SDG-networks/Results/World/World.html)
     - [Global North](https://felix-laumann.github.io/SDG-networks/Results/Global_North/Global_North.html)
     - [Global South](https://felix-laumann.github.io/SDG-networks/Results/Global_South/Global_South.html)
@@ -57,6 +59,12 @@ The two main differences of our approach to existing studies are the considerati
 - [Emerging Markets](https://felix-laumann.github.io/SDG-networks/Results/Emerging_Markets/Emerging_Markets.html)
 - [OPEC](https://felix-laumann.github.io/SDG-networks/Results/OPEC/OPEC.html)
 
+
+---
+
+<h3 id="download">Download numerical results:</h3>
+
+[Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/felix-laumann/SDG-networks/tree/gh-pages/Results/csv) the numerical results of all country groupings as csv files.
 
 ---
 
