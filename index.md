@@ -8,12 +8,14 @@ Given the large analysis over 35 country groupings, most of the results are foun
 
 The two main differences of our approach to existing studies are the consideration of non-linear (non-monotonic) relationships, how the following animated Figure 1 explains, and the consideration that any dependence (or correlation) between two variables may originate from a third variable, that is not taken into account initially. These _third_ variables are called confounders or lurking variables and make the dependence between the two variables spurious. We try to explain this in Figure 2 below.
 
-Figure 1:
+**Figure 1:**
 <img src="Figure_1.gif">
 
-Figure 2:
+**Figure 2:**
 
 <img src="Confounders.gif">
+
+_See our [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Complex+interlinkages%2C+key+objectives%2C+and+nexuses+among+the+Sustainable+Development+Goals+and+climate+change%3A+a+network+analysis&btnG=) page to find out how to cite this research._
 
 ---
 
