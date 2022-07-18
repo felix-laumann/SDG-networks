@@ -12,4 +12,4 @@ Find <a href="TLPH_website_tables_6-6.pdf" target="_blank">here</a> the **exact 
 
 ---
 
-If you are looking to conduct research with these results, we have also made the strength of each relationship available as a <a href="https://raw.githubusercontent.com/felix-laumann/SDG-networks/gh-pages/Results/csv/conditions_Africa.csv" download>csv file</a>. 
+If you are looking to conduct research with these results, we have also made the strength of each relationship available as a <a href="https://raw.githubusercontent.com/felix-laumann/SDG-networks/gh-pages/Results/csv/conditions_Africa.csv" download="Africa_results">csv file</a>. 
