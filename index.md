@@ -71,7 +71,9 @@ _[Download results](#download)_
 
 <h3 id="download">Download numerical results:</h3>
 
-[Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/felix-laumann/SDG-networks/tree/gh-pages/Results/csv) the numerical results of all country groupings as csv files.
+[Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/felix-laumann/SDG-networks/tree/gh-pages/Results/csv) the numerical results of all country groupings as csv files. 
+
+**Explanation to downloaded tables:** You will find six columns. The first column is an index and can be ignored; the second ("pair_0") and third columns ("pair_1") are the SDG numbers ("1" to "17") and climate change ("T"); the fourth column ("min_dcor") is our measure of strength of an interlinkage, the minimum partial distance correlation; the fifth column is the *p*-value of the statistical test for partial independence (we chose a confidence level of 5%); and the sixth column is the conditional set of variables (SDGs + climate change) that resulted in the minimum partial distance correlation.
 
 ---
 
