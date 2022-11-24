@@ -1,5 +1,7 @@
 # SDG climate change networks
 
+The website to explore the results in more detail is available [here](https://felix-laumann.github.io/SDG-networks/).
+
 The publication with this analysis is freely available at [The Lancet Planetary Health](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(22)00070-5/fulltext).
 
 We retrieve SDG data from the [World Bank](http://datatopics.worldbank.org/sdgs/) for all SDGs except SDG 13 which we take from the [UN Statistics Division](https://unstats.un.org/sdgs/indicators/database/). Annual average temperatures on a country-level are taken from the [CRU data set](https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.04/crucy.2004161557.v4.04/countries/tmp/). The 17 SDGs and climate change, measured by annual average temperature, are seen as 18 variables which want to be analysed on their inter-dependencies, often referred to as *interlinkages*.
