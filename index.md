@@ -55,8 +55,8 @@ _[Download results](#download)_
     - [Oceania (excl. AUS + NZ)](https://felix-laumann.github.io/SDG-networks/Results/Oceania_(excl._AUS_+_NZ)/Oceania_(excl._AUS_+_NZ).html)
 
 - [High Income](https://felix-laumann.github.io/SDG-networks/Results/High_Income/High_Income.html)
-- [Upper-Middle Income](https://felix-laumann.github.io/SDG-networks/Results/Upper_middle_Income/Upper-Middle_Income.html)
-- [Lower-Middle Income](https://felix-laumann.github.io/SDG-networks/Results/Lower-Middle_Income/Lower-Middle_Income.html)
+- [Upper-Middle Income](https://felix-laumann.github.io/SDG-networks/Results/Upper_middle_Income/Upper_middle_Income.html)
+- [Lower-Middle Income](https://felix-laumann.github.io/SDG-networks/Results/Lower_middle_Income/Lower_middle_Income.html)
 - [Low Income](https://felix-laumann.github.io/SDG-networks/Results/Low_Income/Low_Income.html)
 
 - [Least Developed Countries](https://felix-laumann.github.io/SDG-networks/Results/Least_Developed_Countries_(LDC)/Least_Developed_Countries_(LDC).html)
